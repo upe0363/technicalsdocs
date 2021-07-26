@@ -1,1 +1,3 @@
 this is github, very interesting topics entire devops
+
+adding few parameter for understanding git merge command , pull request
